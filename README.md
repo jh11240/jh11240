@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Jaehyeon Seo! 👋
+### 🎮 Game Client Developer
 
-<!--
-**jh11240/jh11240** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 주력 스택: **Unity, C#, C++, Unreal**
+- 🚀 관심 분야: **성능 최적화, 모바일 게임 아키텍처, AI를 활용한 워크플로우 자동화**
+- 🏆 PS:
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jh11240)](https://solved.ac/jh11240)
+- 📝 Blog: [블로그 링크](https://velog.io/@jh11240/posts)
 
-Here are some ideas to get you started:
+---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jh11240)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Unreal](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+## 📊 Github Stats
+<!-- 1. 기본 스탯 카드 (캐시 설정 추가로 새로고침 반영) -->
+![Jae-hyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jh11240&show_icons=true&theme=radical&cache_seconds=1800)
+
+<!-- 2. 주력 언어 카드 (클라이언트 개발자로서 C#, C++ 비중을 보여주기 좋음) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jh11240&layout=compact&theme=radical&hide=html,css)
