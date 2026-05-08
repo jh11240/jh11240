@@ -6,7 +6,9 @@
 - 🚀 관심 분야: **성능 최적화, 모바일 게임 아키텍처, AI를 활용한 워크플로우 자동화**
 - 🏆 PS:
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jh11240)](https://solved.ac/jh11240)
-- 📝 Blog: [블로그 링크](https://velog.io/@jh11240/posts)
+- ✍️ Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 사용자에게 부드러운 경험을 제공하기 위해 **성능 최적화**와 **지속 가능한 구조**를 고민합니다.
 ---
