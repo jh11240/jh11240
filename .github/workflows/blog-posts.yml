@@ -1,0 +1,19 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    - cron: '0 0 * * *' # 매일 자정에 업데이트 (원하는 대로 변경 가능)
+  workflow_dispatch: # 수동 업데이트 버튼 활성화
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Pull in posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://v2.velog.io/rss/@jh11240"
+          template: "<li><a href='$url'>$title</a> ($date)</li>"
+          date_format: "yyyy. mm. dd"
