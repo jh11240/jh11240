@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule:
-    - cron: '0 0 * * *' # 매일 자정에 업데이트 (원하는 대로 변경 가능)
+    - cron: '0 0 * * *' # 매일 자정에 업데이트
   workflow_dispatch: # 수동 업데이트 버튼 활성화
 
 jobs:
@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # v3에서 v4로 업데이트 (Node.js 24 지원)
       - name: Pull in posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
